@@ -2,8 +2,8 @@
 
 ### ✏ About
 
-- 🌱 31 years old, from Denmark.</li>
-- 💻 Currently working on a secret project!</li>
+- 🌱 Scandinavia, Denmark.</li>
+- 💻 Currently working on an unofficial (yet) Django project.</li>
 - 💬 Ask me anything [here][issues].</li>
 
 <br>
