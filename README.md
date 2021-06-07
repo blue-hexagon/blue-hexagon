@@ -1,19 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
 
-### ✏ About
-
-- 🌱 Scandinavia, Denmark.</li>
-- 💻 Currently working on an unofficial (yet) Django project.</li>
-- 💬 Ask me anything [here][issues].</li>
-
-<br>
-
-### 📊 Github Stats
-
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=blue-hexagon&hide=["issues"]&show_icons=true)
-
-<br>
-
 ### 📃 Some of my projects
 
 <table align="">
@@ -84,56 +70,56 @@
 <table align="">
     <tr>
         <td align="center" width="96">
-            <a href="#macropower-tech">
+            <a href="#">
                 <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java_128x128.png?raw=true"
                      width="48" height="48" alt="Java"/>
             </a>
             <br>Java
         </td>
         <td align="center" width="96">
-            <a href="#macropower-tech">
+            <a href="#">
                 <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png?raw=true"
                      width="48" height="48" alt="Python"/>
             </a>
             <br>Python
         </td>
         <td align="center" width="96">
-            <a href="#macropower-tech">
-                <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/bash/bash_128x128.png?raw=true"
+            <a href="#">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Bash_Logo_black_and_white_icon_only.svg?raw=true"
                      width="48" height="48" alt="Bash"/>
             </a>
             <br>Bash
         </td>
         <td align="center" width="96">
-            <a href="#macropower-tech">
+            <a href="#">
                 <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_128x128.png?raw=true"
                      width="48" height="48" alt="JavaScript"/>
             </a>
             <br>JavaScript
         </td>
         <td align="center" width="96">
-            <a href="#macropower-tech">
+            <a href="#">
                 <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_128x128.png?raw=true"
                      width="48" height="48" alt="HTML"/>
             </a>
             <br>HTML
         </td>
         <td align="center" width="96">
-            <a href="#macropower-tech">
+            <a href="#">
                 <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css_128x128.png?raw=true"
                      width="48" height="48" alt="CSS"/>
             </a>
             <br>CSS
         </td>
         <td align="center" width="96">
-            <a href="#macropower-tech">
+            <a href="#">
                 <img src="https://sangeeta.io/images/tech-stack/django.png" width="48" height="48" alt="Django"/>
             </a>
             <br>Django
         </td>
         <td align="center" width="96">
-            <a href="#macropower-tech">
-                <img src="https://sangeeta.io/images/tech-stack/flask.png" width="48" height="48" alt="Flask"/>
+            <a href="#">
+                <img src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png" width="48" height="48" alt="Flask"/>
             </a>
             <br>Flask
         </td>
