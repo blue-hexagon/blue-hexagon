@@ -13,11 +13,22 @@
     </tr>
     </thead>
     <tbody>
-    <tr>
-                <td><a href="https://github.com/blue-hexagon/WinScraper"><b>WinScraper</b></a></td>
+        <tr>
+        <td><a href="https://github.com/blue-hexagon/WinScraper"><b>WinScraper</b></a></td>
         <td><img alt="Stars"
                  src="https://img.shields.io/github/stars/blue-hexagon/WinScraper?style=flat-square&labelColor=343b41"/>
         </td>
+        <td><img alt="Forks"
+                 src="https://img.shields.io/github/forks/blue-hexagon/WinScraper?style=flat-square&labelColor=343b41"/>
+        </td>
+        <td><img alt="Issues"
+                 src="https://img.shields.io/github/issues/blue-hexagon/WinScraper?style=flat-square&labelColor=343b41"/>
+        </td>
+        <td><img alt="Pull Requests"
+                 src="https://img.shields.io/github/languages/top/blue-hexagon/WinScraper?style=flat-square&labelColor=343b41"/>
+        </td>
+    </tr>    
+    <tr>
         <td><a href="https://github.com/blue-hexagon/django-todo"><b>Django Todo</b></a></td>
         <td><img alt="Stars"
                  src="https://img.shields.io/github/stars/blue-hexagon/django-todo?style=flat-square&labelColor=343b41"/>
