@@ -129,6 +129,13 @@
         </td>
         <td align="center" width="96">
             <a href="#">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/240px-Typescript_logo_2020.svg.png"
+                     width="48" height="48" alt="JavaScript"/>
+            </a>
+            <br>TypeScript
+        </td>
+        <td align="center" width="96">
+            <a href="#">
                 <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_128x128.png?raw=true"
                      width="48" height="48" alt="HTML"/>
             </a>
