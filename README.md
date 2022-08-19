@@ -28,6 +28,7 @@
                  src="https://img.shields.io/github/languages/top/blue-hexagon/WinScraper?style=flat-square&labelColor=343b41"/>
         </td>
     </tr>    
+    <!--
     <tr>
         <td><a href="https://github.com/blue-hexagon/django-todo"><b>Django Todo</b></a></td>
         <td><img alt="Stars"
@@ -43,6 +44,7 @@
                  src="https://img.shields.io/github/languages/top/blue-hexagon/django-todo?style=flat-square&labelColor=343b41"/>
         </td>
     </tr>
+    -->
     <tr>
         <td><a href="https://github.com/blue-hexagon/Cheatsheet"><b>Cheatsheet.Wtf</b></a></td>
         <td><img alt="Stars"
