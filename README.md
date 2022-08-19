@@ -27,7 +27,7 @@
         <td><img alt="Pull Requests"
                  src="https://img.shields.io/github/languages/top/blue-hexagon/WinScraper?style=flat-square&labelColor=343b41"/>
         </td>
-    </tr>    
+    </tr>
     <!--
     <tr>
         <td><a href="https://github.com/blue-hexagon/django-todo"><b>Django Todo</b></a></td>
@@ -95,10 +95,33 @@
     </tr>
     </tbody>
 </table>
-<br>
+
+
+### 📃 Work-in-Progress
+<table align="">
+    <thead align="center">
+    <tr border: none;>
+        <td><b>Project</b></td>
+        <td><b>About</b></td>
+        <td><b>Status</b></td>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td align="center">
+        <a href="https://github.com/blue-hexagon/Cthulhu"><b>Cthulhu</b></a>
+        </td>
+        <td>
+            A bruteforce/password-permutation generator and a distributed password cracker in one.
+        </td>
+        <td>
+            Bruteforce/password-permutation generator is done.<br>Simple form auth and SSH bruteforcer is done.<br>Currently working on the network protocol and adding concurrency for the main node.
+        </td>
+    </tr>
+    </tbody>
+</table>
 
 ### 📚 Languages & Skills
-
 <table align="">
     <tr>
         <td align="center" width="96">
