@@ -2,28 +2,18 @@
 
 ### 📃 Some of my projects
 
-<table align="">
+<table align="" style="width: 100%">
     <thead align="center">
-    <tr border: none;>
+    <tr>
         <td><b>🎁 Projects</b></td>
-        <td><b>⭐ Stars</b></td>
-        <td><b>📚 Forks</b></td>
-        <td><b>🛎 Issues</b></td>
+        <td><b>🔖 About</b></td>
         <td><b>📬 Language</b></td>
     </tr>
     </thead>
     <tbody>
         <tr>
         <td><a href="https://github.com/blue-hexagon/WinScraper"><b>WinScraper</b></a></td>
-        <td><img alt="Stars"
-                 src="https://img.shields.io/github/stars/blue-hexagon/WinScraper?style=flat-square&labelColor=343b41"/>
-        </td>
-        <td><img alt="Forks"
-                 src="https://img.shields.io/github/forks/blue-hexagon/WinScraper?style=flat-square&labelColor=343b41"/>
-        </td>
-        <td><img alt="Issues"
-                 src="https://img.shields.io/github/issues/blue-hexagon/WinScraper?style=flat-square&labelColor=343b41"/>
-        </td>
+        <td style="">A CLI tool / library used for collecting information about devices running Windows OS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
         <td><img alt="Pull Requests"
                  src="https://img.shields.io/github/languages/top/blue-hexagon/WinScraper?style=flat-square&labelColor=343b41"/>
         </td>
@@ -31,15 +21,7 @@
     <!--
     <tr>
         <td><a href="https://github.com/blue-hexagon/django-todo"><b>Django Todo</b></a></td>
-        <td><img alt="Stars"
-                 src="https://img.shields.io/github/stars/blue-hexagon/django-todo?style=flat-square&labelColor=343b41"/>
-        </td>
-        <td><img alt="Forks"
-                 src="https://img.shields.io/github/forks/blue-hexagon/django-todo?style=flat-square&labelColor=343b41"/>
-        </td>
-        <td><img alt="Issues"
-                 src="https://img.shields.io/github/issues/blue-hexagon/django-todo?style=flat-square&labelColor=343b41"/>
-        </td>
+        <td></td>>
         <td><img alt="Pull Requests"
                  src="https://img.shields.io/github/languages/top/blue-hexagon/django-todo?style=flat-square&labelColor=343b41"/>
         </td>
@@ -47,45 +29,21 @@
     -->
     <tr>
         <td><a href="https://github.com/blue-hexagon/Cheatsheet"><b>Cheatsheet.Wtf</b></a></td>
-        <td><img alt="Stars"
-                 src="https://img.shields.io/github/stars/blue-hexagon/Cheatsheet?style=flat-square&labelColor=343b41"/>
-        </td>
-        <td><img alt="Forks"
-                 src="https://img.shields.io/github/forks/blue-hexagon/Cheatsheet?style=flat-square&labelColor=343b41"/>
-        </td>
-        <td><img alt="Issues"
-                 src="https://img.shields.io/github/issues/blue-hexagon/Cheatsheet?style=flat-square&labelColor=343b41"/>
-        </td>
+        <td>Cheatsheets For Developers ✍</td>
         <td><img alt="Pull Requests"
                  src="https://img.shields.io/github/languages/top/blue-hexagon/Cheatsheet?style=flat-square&labelColor=343b41"/>
         </td>
     </tr>
     <tr>
         <td><a href="https://github.com/blue-hexagon/TS-Calculator"><b>TS Calculator</b></a></td>
-        <td><img alt="Stars"
-                 src="https://img.shields.io/github/stars/blue-hexagon/TS-Calculator?style=flat-square&labelColor=343b41"/>
-        </td>
-        <td><img alt="Forks"
-                 src="https://img.shields.io/github/forks/blue-hexagon/TS-Calculator?style=flat-square&labelColor=343b41"/>
-        </td>
-        <td><img alt="Issues"
-                 src="https://img.shields.io/github/issues/blue-hexagon/TS-Calculator?style=flat-square&labelColor=343b41"/>
-        </td>
+        <td>A modular object-oriented calculator</td>
         <td><img alt="Pull Requests"
                  src="https://img.shields.io/github/languages/top/blue-hexagon/TS-Calculator?style=flat-square&labelColor=343b41"/>
         </td>
     </tr>
     <tr>
         <td><a href="https://github.com/blue-hexagon/p-Snake"><b>p-Snake</b></a></td>
-        <td><img alt="Stars"
-                 src="https://img.shields.io/github/stars/blue-hexagon/p-Snake?style=flat-square&labelColor=343b41"/>
-        </td>
-        <td><img alt="Forks"
-                 src="https://img.shields.io/github/forks/blue-hexagon/p-Snake?style=flat-square&labelColor=343b41"/>
-        </td>
-        <td><img alt="Issues"
-                 src="https://img.shields.io/github/issues/blue-hexagon/p-Snake?style=flat-square&labelColor=343b41"/>
-        </td>
+        <td>Snake written in Python and Curses. </td>
         <td><img alt="Pull Requests"
                  src="https://img.shields.io/github/languages/top/blue-hexagon/p-Snake?style=flat-square&labelColor=343b41"/>
         </td>
@@ -98,7 +56,7 @@
 
 
 ### 📃 Work-in-Progress
-<table align="">
+<table align="" style="width: 100%">
     <thead align="center">
     <tr border: none;>
         <td><b>Project</b></td>
@@ -122,7 +80,7 @@
 </table>
 
 ### 📚 Languages & Skills
-<table align="">
+<table align="" style="width: 100%">
     <tr>
         <td align="center" width="96">
             <a href="#">
