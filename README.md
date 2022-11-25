@@ -27,16 +27,23 @@
         </td>
     </tr>
     -->
+     <tr>
+        <td><a href="https://github.com/blue-hexagon/BashLamp"><b>BashLAMP</b></a></td>
+        <td>A Bash script that sets up a Rocky Linux LAMP server with Wordpress and a SSL configured FTP server + more</td>
+        <td><img alt="Pull Requests"
+                 src="https://img.shields.io/github/languages/top/blue-hexagon/BashLamp?style=flat-square&labelColor=343b41"/>
+        </td>
+    </tr>
     <tr>
         <td><a href="https://github.com/blue-hexagon/Cheatsheet"><b>Cheatsheet.Wtf</b></a></td>
-        <td>Cheatsheets For Developers ✍</td>
+        <td>Cheatsheets For Developers ✍ Written in Flask + Jinja2 + Bootstrap4</td>
         <td><img alt="Pull Requests"
                  src="https://img.shields.io/github/languages/top/blue-hexagon/Cheatsheet?style=flat-square&labelColor=343b41"/>
         </td>
     </tr>
     <tr>
         <td><a href="https://github.com/blue-hexagon/TS-Calculator"><b>TS Calculator</b></a></td>
-        <td>A modular object-oriented calculator</td>
+        <td>A modular object-oriented calculator written in TypeScript and bundled with Webpack</td>
         <td><img alt="Pull Requests"
                  src="https://img.shields.io/github/languages/top/blue-hexagon/TS-Calculator?style=flat-square&labelColor=343b41"/>
         </td>
