@@ -83,6 +83,17 @@
             Bruteforce/password-permutation generator is done.<br>Simple form auth and SSH bruteforcer is done.<br>Currently working on the network protocol and adding concurrency for the main node.
         </td>
     </tr>
+            <tr>
+        <td align="center">
+        <a href="https://github.com/blue-hexagon/PowerScraper"><b>PowerScraper</b></a>
+        </td>
+        <td>
+An advanced, lightweight system information cli tool/library for Windows devices.
+        </td>
+        <td>
+            Finishing the program.
+        </td>
+    </tr>
     </tbody>
 </table>
 
