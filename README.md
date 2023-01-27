@@ -29,7 +29,7 @@
     -->
      <tr>
         <td><a href="https://github.com/blue-hexagon/BashLamp"><b>BashLAMP</b></a></td>
-        <td>A Bash script that sets up a Rocky Linux LAMP server with Wordpress, a SSL configured FTP server and a basic Fail2Ban configuration/td>
+        <td>A Bash script that sets up a Rocky Linux LAMP server with Wordpress, a SSL configured FTP server and a basic Fail2Ban configuration</td>
         <td><img alt="Pull Requests"
                  src="https://img.shields.io/github/languages/top/blue-hexagon/BashLamp?style=flat-square&labelColor=343b41"/>
         </td>
