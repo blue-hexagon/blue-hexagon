@@ -85,7 +85,7 @@
     </tr>
             <tr>
         <td align="center">
-        <a href="https://github.com/blue-hexagon/PowerScraper"><b>PowerScraper</b></a>
+        <a href="https://github.com/blue-hexagon/PowerScraper"><b>PowerScraper (currently private)</b></a>
         </td>
         <td>
 An advanced, lightweight system information cli tool/library for Windows devices.
