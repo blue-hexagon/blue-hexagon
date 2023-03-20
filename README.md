@@ -98,85 +98,44 @@ An advanced, lightweight system information cli tool/library for Windows devices
 </table>
 
 ### 📚 Languages & Skills
-<table align="" style="width: 100%">
-    <tr>
-        <td align="center" width="96">
-            <a href="#">
-                <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java_128x128.png?raw=true"
-                     width="48" height="48" alt="Java"/>
-            </a>
-            <br>Java
-        </td>
-        <td align="center" width="96">
-            <a href="#">
-                <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png?raw=true"
-                     width="48" height="48" alt="Python"/>
-            </a>
-            <br>Python
-        </td>
-        <td align="center" width="96">
-            <a href="#">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Bash_Logo_black_and_white_icon_only.svg?raw=true"
-                     width="48" height="48" alt="Bash"/>
-            </a>
-            <br>Bash
-        </td>
-        <td align="center" width="96">
-            <a href="#">
-                <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_128x128.png?raw=true"
-                     width="48" height="48" alt="JavaScript"/>
-            </a>
-            <br>JavaScript
-        </td>
-        <td align="center" width="96">
-            <a href="#">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/240px-Typescript_logo_2020.svg.png"
-                     width="48" height="48" alt="JavaScript"/>
-            </a>
-            <br>TypeScript
-        </td>
-        <td align="center" width="96">
-            <a href="#">
-                <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_128x128.png?raw=true"
-                     width="48" height="48" alt="HTML"/>
-            </a>
-            <br>HTML
-        </td>
-        <td align="center" width="96">
-            <a href="#">
-                <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css_128x128.png?raw=true"
-                     width="48" height="48" alt="CSS"/>
-            </a>
-            <br>CSS
-        </td>
-        <td align="center" width="96">
-            <a href="#">
-                <img src="https://sangeeta.io/images/tech-stack/django.png" width="48" height="48" alt="Django"/>
-            </a>
-            <br>Django
-        </td>
-        <td align="center" width="96">
-            <a href="#">
-                <img src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png" width="48" height="48" alt="Flask"/>
-            </a>
-            <br>Flask
-        </td>
-        <td align="center" width="96">
-            <a href="#">
-                <img src="https://pbs.twimg.com/profile_images/993555605078994945/Yr-pWI4G_400x400.jpg" width="48" height="48" alt="Dart"/>
-            </a>
-            <br>Dart
-        </td>
-        <td align="center" width="96">
-            <a href="#">
-                <img src="https://play-lh.googleusercontent.com/5e7z5YCt7fplN4qndpYzpJjYmuzM2WSrfs35KxnEw-Ku1sClHRWHoIDSw3a3YS5WpGcI" width="48" height="48" alt="Dart"/>
-            </a>
-            <br>Flutter
-        </td>
-    </tr>
-
-</table>
+*I work with, or have experience, with the following tools, languages, frameworks and technologies*
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=cs,dart,java,python,bash,powershell,regex,latex&theme=light"/>
 <br>
+<i align="">C#, Java, Python, Bash, Powershell, RegEx, LaTeX</i>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,sass,bootstrap,tailwind&theme=light"/>
+<br>
+<i align="center">JavaScript, TypeScript, HTML, CSS, SCSS, Bootstrap, Tailwind</i>
+</td>
+</tr>
+    
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=django,flask,flutter,nuxtjs,webpack&theme=light"/>
+<br>
+<i align="center">Django, Flask, Flutter, Vue & NuxtJS, Webpack</i>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=docker,githubactions,linux&theme=light"/>
+<br>
+<i align="center"> Docker, Github Actions, Linux</i>
+</td>
+</tr>
+    
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,nginx,postman,heroku&theme=light"/>
+<br>
+<i align="center">MySQL, PostgreSQL, NginX, Postman, Heroku, Digital Ocean</i>
+</td>
+    
+<td align="center">
 
-
-
+<i align="center">Digital Ocean, JetBrains IDEs</i>
+</td>
+</tr>
+</table>
