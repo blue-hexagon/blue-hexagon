@@ -104,7 +104,7 @@ An advanced, lightweight system information cli tool/library for Windows devices
 <td align="center">
 <img src="https://skillicons.dev/icons?i=cs,dart,java,python,bash,powershell,regex,latex&theme=light"/>
 <br>
-<i align="">C#, Java, Python, Bash, Powershell, RegEx, LaTeX</i>
+<i align="">C#, Dart, Java, Python, Bash, Powershell, RegEx, LaTeX</i>
 </td>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,sass,bootstrap,tailwind&theme=light"/>
@@ -130,7 +130,7 @@ An advanced, lightweight system information cli tool/library for Windows devices
 <td align="center">
 <img src="https://skillicons.dev/icons?i=mysql,postgres,nginx,postman,heroku&theme=light"/>
 <br>
-<i align="center">MySQL, PostgreSQL, NginX, Postman, Heroku, Digital Ocean</i>
+<i align="center">MySQL, PostgreSQL, NginX, Postman, Heroku</i>
 </td>
     
 <td align="center">
