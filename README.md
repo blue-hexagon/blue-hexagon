@@ -98,7 +98,7 @@ An advanced, lightweight system information cli tool/library for Windows devices
 </table>
 
 ### 📚 Languages & Skills
-*I work with, or have experience, with the following tools, languages, frameworks and technologies*
+*Tools, languages, frameworks and technologies that I work with*
 <table align="center">
 <tr>
 <td align="center">
