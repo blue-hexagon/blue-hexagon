@@ -120,17 +120,17 @@ An advanced, lightweight system information cli tool/library for Windows devices
 <i align="center">Django, Flask, Flutter, Vue & NuxtJS, Webpack</i>
 </td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=docker,githubactions,linux&theme=light"/>
+<img src="https://skillicons.dev/icons?i=nginx,postman,heroku,docker,githubactions,linux&theme=light"/>
 <br>
-<i align="center"> Docker, Github Actions, Linux</i>
+<i align="center">NginX, Postman, Heroku, Docker, Github Actions, Linux</i>
 </td>
 </tr>
     
 <tr>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,nginx,postman,heroku&theme=light"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=light"/>
 <br>
-<i align="center">MySQL, PostgreSQL, NginX, Postman, Heroku</i>
+<i align="center">MySQL, PostgreSQL</i>
 </td>
     
 <td align="center">
