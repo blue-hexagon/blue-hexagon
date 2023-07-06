@@ -139,3 +139,10 @@ An advanced, lightweight system information cli tool/library for Windows devices
 </td>
 </tr>
 </table>
+
+### 💼 Open for Job Opportunities!
+I'm currently actively seeking new job opportunities that align with my skills and interests. If you know of any positions or projects that you think might be a good fit, please don't hesitate to reach out to me. I'm open to full-time, part-time, or contract opportunities, both remote and on-site.
+
+You can connect with me through [LinkedIn](https://www.linkedin.com/in/ab0f7c-107b94b9/). Let's chat and explore how we can work together!
+
+Thank you for visiting my profile, and I look forward to connecting with you!
