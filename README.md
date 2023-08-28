@@ -1,101 +1,18 @@
 <h1 align="center">Hi there 👋</h1>
 
 ### 📃 Some of my projects
+| Project Name                                       | Project Link                                       | Status                | Technologies                                                    | Description                                                                                                       |
+|----------------------------------------------------|----------------------------------------------------|-----------------------|----------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
+| LendIT.Pro                                         | Not yet available       | Work in progress      | HTML, HTMX, Bootstrap, Python, Django, JS, Webpack, PostgreSQL, LaTeX, Docker | LendIT.Pro is a loan tool designed for organizations and institutions to manage IT equipment lending and asset management. |
+| PowerScraper                                      | [GitHub](https://github.com/blue-hexagon/PowerScraper)   | Work in progress       | C#, PowerShell, Docker, YAML                                  | PowerScraper is a versatile script-runner application aiming to simplify cross-platform script execution. |
+| Cthulhu                                            | [GitHub](https://github.com/blue-hexagon/Cthulhu)             |                       | Python                                                         | Cthulhu is a functional library for generating word lists and brute force tables from two-dimensional string array inputs.    |
+| WinScraper                                        | [GitHub](https://github.com/blue-hexagon/WinScraper)       |                       | Python                                                         | WinScraper collects info about devices with Windows OS. It serves as a library and CLI tool, allowing module selection. |
+| BashLAMP                                          | [GitHub](https://github.com/blue-hexagon/BashLAMP)           |                       | Bash, GNU Core Utilities                                      | BashLAMP is a guided script to set up a LAMP server with users, FTP, WordPress, and security measures.         |
+| TS-Calculator                                     | [GitHub](https://github.com/blue-hexagon/TS-Calculator) |                       | TypeScript, Webpack                                          | TS-Calculator is a modular calculator in TypeScript, controllable by keyboard with a help table for shortcuts. |
+| JhHuse.dk                                          | [Website](https://www.jhhuse.dk)                     	 |                       | HTML, Django, Bootstrap                                      | JhHuse.dk is a website for a homeowner association, providing document features and member information updates. |
+| CheatSheet.Wtf                                    | [Website](https://www.cheatsheet.wtf)          	 |                       | HTML, Jinja2, Bootstrap, Flask, Python, JSON, Stripe, OpenGraph, SEO | CheatSheet.Wtf offers cheatsheets for languages, libraries, and frameworks. Built using JSON files and templates. |
+| ShellMagic.Xyz                                    | [GitHub](https://github.com/blue-hexagon/ShellMagic) [Website (Archive)](https://web.archive.org/web/20200411230156/https:/shellmagic.xyz/) 	 |                       | HTML, CSS                                                     | ShellMagic.Xyz is a comprehensive reference for Bash.                                                       |
 
-<table align="" style="width: 100%">
-    <thead align="center">
-    <tr>
-        <td><b>🎁 Projects</b></td>
-        <td><b>🔖 About</b></td>
-        <td><b>📬 Language</b></td>
-    </tr>
-    </thead>
-    <tbody>
-        <tr>
-        <td><a href="https://github.com/blue-hexagon/WinScraper"><b>WinScraper</b></a></td>
-        <td style="">A CLI tool / library used for collecting information about devices running Windows OS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-        <td><img alt="Pull Requests"
-                 src="https://img.shields.io/github/languages/top/blue-hexagon/WinScraper?style=flat-square&labelColor=343b41"/>
-        </td>
-    </tr>
-    <!--
-    <tr>
-        <td><a href="https://github.com/blue-hexagon/django-todo"><b>Django Todo</b></a></td>
-        <td></td>>
-        <td><img alt="Pull Requests"
-                 src="https://img.shields.io/github/languages/top/blue-hexagon/django-todo?style=flat-square&labelColor=343b41"/>
-        </td>
-    </tr>
-    -->
-     <tr>
-        <td><a href="https://github.com/blue-hexagon/BashLamp"><b>BashLAMP</b></a></td>
-        <td>A Bash script that sets up a Rocky Linux LAMP server with Wordpress, a SSL configured FTP server and a basic Fail2Ban configuration</td>
-        <td><img alt="Pull Requests"
-                 src="https://img.shields.io/github/languages/top/blue-hexagon/BashLamp?style=flat-square&labelColor=343b41"/>
-        </td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/blue-hexagon/Cheatsheet"><b>Cheatsheet.Wtf</b></a></td>
-        <td>Cheatsheets For Developers ✍ Written in Flask + Jinja2 + Bootstrap4</td>
-        <td><img alt="Pull Requests"
-                 src="https://img.shields.io/github/languages/top/blue-hexagon/Cheatsheet?style=flat-square&labelColor=343b41"/>
-        </td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/blue-hexagon/TS-Calculator"><b>TS Calculator</b></a></td>
-        <td>A modular object-oriented calculator written in TypeScript and bundled with Webpack</td>
-        <td><img alt="Pull Requests"
-                 src="https://img.shields.io/github/languages/top/blue-hexagon/TS-Calculator?style=flat-square&labelColor=343b41"/>
-        </td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/blue-hexagon/p-Snake"><b>p-Snake</b></a></td>
-        <td>Snake written in Python and Curses. </td>
-        <td><img alt="Pull Requests"
-                 src="https://img.shields.io/github/languages/top/blue-hexagon/p-Snake?style=flat-square&labelColor=343b41"/>
-        </td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/blue-hexagon?tab=repositories"><b>Show more...</b></a></td>
-    </tr>
-    </tbody>
-</table>
-
-
-### 📃 Work-in-Progress
-<table align="" style="width: 100%">
-    <thead align="center">
-    <tr border: none;>
-        <td><b>Project</b></td>
-        <td><b>About</b></td>
-        <td><b>Status</b></td>
-    </tr>
-    </thead>
-    <tbody>
-    <tr>
-        <td align="center">
-        <a href="https://github.com/blue-hexagon/Cthulhu"><b>Cthulhu</b></a>
-        </td>
-        <td>
-            A bruteforce/password-permutation generator and a distributed password cracker in one.
-        </td>
-        <td>
-            Bruteforce/password-permutation generator is done.<br>Simple form auth and SSH bruteforcer is done.<br>Currently working on the network protocol and adding concurrency for the main node.
-        </td>
-    </tr>
-            <tr>
-        <td align="center">
-        <a href="https://github.com/blue-hexagon/PowerScraper"><b>PowerScraper (currently private)</b></a>
-        </td>
-        <td>
-An advanced, lightweight system information cli tool/library for Windows devices.
-        </td>
-        <td>
-            Finishing the program.
-        </td>
-    </tr>
-    </tbody>
-</table>
 
 ### 📚 Languages & Skills
 *Tools, languages, frameworks and technologies that I work with*
